@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_clientes" value="name:id;datatype:int,name:Nombre;datatype:string,name:telefono;datatype:string,name:celular;datatype:string,name:Direccion;datatype:string,name:cedula;datatype:string,name:comentario;datatype:string" />
+	<infoitem key="UD_ventas" value="name:id;datatype:int,name:Nombre;datatype:string,name:Valor;datatype:int,name:user;datatype:int,name:Fecha;datatype:string,name:hora;datatype:string,name:codigo;datatype:int" />
+	<infoitem key="UD_new_ventas" value="name:id;datatype:int,name:Nombre;datatype:string,name:Valor;datatype:int,name:user;datatype:int,name:Fecha;datatype:string,name:hora;datatype:string,name:codigo;datatype:int" />
+</info>

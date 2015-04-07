@@ -1,0 +1,25 @@
+@charset "utf-8";
+.estilo {
+	font-family: "Arial", Gadget, sans-serif;
+	font-size: 22px;
+	background-attachment: fixed;
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+body {
+	background-attachment: fixed;
+	background-color: #FFF;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-image: url(Imagenes/Fondo.jpg);
+	font-family: "Comic Sans MS", cursive;
+	font-size: 14px;
+}
+.subtitulo {
+	font-size: 24px;
+	font-weight: bold;
+}
+.subtitulo table {
+	font-size: 14px;
+}
